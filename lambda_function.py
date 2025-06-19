@@ -31,7 +31,7 @@ def lambda_handler(event, context):
     if alerts:
         sns.publish(
             TopicArn=SNS_TOPIC_ARN,
-            Subject="🚨 AWS Security Alert",
+            Subject="AWS Security Alert",
             Message='\n'.join(alerts)
         )
         print("SNS alert sent.")
