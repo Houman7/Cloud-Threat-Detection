@@ -21,4 +21,4 @@ This project sets up a lightweight SIEM-like system in AWS using cloudwatch,clou
 - Lambda processes event and publishes to SNS
 - SNS sends alerts to your chosen subscribers
 ## Configuration
-![Alt text]()
+![Alt text](https://github.com/Houman7/Cloud-Threat-Detection/blob/main/Cloudtrailconfig.png)
