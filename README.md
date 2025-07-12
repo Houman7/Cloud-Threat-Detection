@@ -20,3 +20,5 @@ This project sets up a lightweight SIEM-like system in AWS using cloudwatch,clou
 - CloudWatch triggers Lambda via subscription filter on matching patterns
 - Lambda processes event and publishes to SNS
 - SNS sends alerts to your chosen subscribers
+## Configuration
+![Alt text]()
