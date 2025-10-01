@@ -12,7 +12,6 @@ This project sets up a lightweight SIEM-like system in AWS using cloudwatch,clou
 - StopLogging call	
 - IAM policy tampering	
 - Lambda enumeration	
-- Suspicious IP addresses	
 - S3 bucket access
 ## How it Works
 - CloudTrail records AWS API activity
